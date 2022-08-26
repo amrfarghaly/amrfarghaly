@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amrfarghaly
+- 🌱 I’m currently learning flutter 
+- 💞️ I’m looking to collaborate on open source projects 
